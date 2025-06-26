@@ -1,6 +1,7 @@
 # 🚀 DietPi USB Wizard - Generatore di Script per Chiavette USB Avviabili
 
 ![Anteprima Applicazione](assets/screenshot.png)
+> Progetto su [GoogleAIstudio](https://aistudio.google.com/apps/drive/1_vOlHAlPUq9mWoRIcrajcgDvJJ6fifK-?showAssistant=true&showCode=true&showFileTree=true&showTreeView=true&showPreview=true)
 
 ## 🌟 Introduzione
 
