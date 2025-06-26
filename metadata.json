@@ -1,0 +1,5 @@
+{
+  "name": "DietPi USB Wizard",
+  "description": "An application to generate a custom bash script for creating a bootable DietPi USB drive, guiding users through configuration steps.",
+  "requestFramePermissions": []
+}
