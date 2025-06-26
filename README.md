@@ -2,6 +2,9 @@
 
 This contains everything you need to run your app locally.
 
+![screenshot](assets/screensht.png)
+
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
