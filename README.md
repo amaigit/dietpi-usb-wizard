@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-![screenshot](assets/screensht.png)
+![screenshot](assets/screenshot.png)
 
 
 ## Run Locally
